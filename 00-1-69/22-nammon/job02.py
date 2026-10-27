@@ -1,5 +1,9 @@
 # สินค้าชิ้นที่ 1
+<<<<<<< HEAD:00-1-69/22-nammon/job02.py
 name1 = input("กรอกชื่อสินค้าชิ้นที่ 1: ")
+=======
+name1 = input("กรุณากรอกชื่อสินค้าชิ้นที่ 1: ")
+>>>>>>> 8ded7c943b6442de8e908f5ff310e991cacd9fc4:22-nammon/job02.py
 price1 = float(input("กรอกราคาต่อชิ้นของ " + name1 + ": "))
 qty1 = int(input("กรอกจำนวนที่ขายของ " + name1 + ": "))
 total1 = price1 * qty1
